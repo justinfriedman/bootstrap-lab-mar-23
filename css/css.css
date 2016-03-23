@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-left:80px;
+  padding-right: 80px;
+  padding-top: 60px;
+}
+.row {
+  padding-left:80px;
+  padding-right: 80px;
+}
+
+hr {
+  width: 90%;
+}
+
+footer {
+  padding-left:80px;
+  padding-right: 80px;
+}
+
+#viewDetails {
+  background-color: rgba(36, 168, 24, 0.88);
+  border-color: rgba(36, 168, 24, 0.88);
+}
+
+.navbar-inverse {
+border-radius: 0px;
+
+}
